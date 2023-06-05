@@ -5,6 +5,8 @@
 The Multi Color Detection program is a computer vision application that utilizes OpenCV to detect RGB colors within different boxes or regions of interest (ROIs). This program provides an efficient and automated way to identify and analyze specific colors in images or video streams.
 
 
+Project - 10
+
 ## Table of Contents
 
 - [Installation](#installation)
